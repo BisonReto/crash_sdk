@@ -1,0 +1,2 @@
+# crash_sdk
+基于breakpad和crashpad封装的异常崩溃上报模块
